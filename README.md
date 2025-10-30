@@ -14,7 +14,7 @@
 | ファイル | 内容 |
 |-----------|------|
 | `loop_practice.py` | 授業中のfor/while実習テンプレート |
-| `assignment3_number_game.py` | 課題#3（数当てゲーム）テンプレート |
+| `number_game.py` | 課題#3（数当てゲーム）テンプレート |
 | `examples/kukei_table_example.py` | 九九表の例 |
 | `examples/prime_check_example.py` | 素数判定の例 |
 | `examples/digit_sum_example.py` | 桁和の例 |
